@@ -12,3 +12,4 @@ GROUP BY
     skills
 ORDER BY
     average_salary DESC;
+    
